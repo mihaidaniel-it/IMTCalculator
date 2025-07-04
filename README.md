@@ -10,6 +10,7 @@ This project is a small Java application developed to practice and strengthen pr
 The main features of the project include:
 
 - Integration of the `Scanner` class for reading user input from the command line.
+- Use different data types such as: int, String, double. 
 - Use of control structures such as `if-else` conditions for find your IMT zone which based on programm calculations.
 
 ---
